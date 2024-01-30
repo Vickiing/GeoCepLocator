@@ -1,6 +1,6 @@
 # GeoCepLocator
 #Encontrar Latitude e Longitude por CEP
-Este é um pequeno script Python que utiliza a biblioteca geopy para encontrar a latitude e longitude de um determinado CEP ou uma lista de CEPs (Código de Endereçamento Postal).
+Este é um pequeno script Python que utiliza a biblioteca geopy para encontrar a latitude e longitude de um determinado CEP ou uma lista de CEPs e depois, exporta para um arquivo TXT.
 
 Requisitos
 Biblioteca geopy.
