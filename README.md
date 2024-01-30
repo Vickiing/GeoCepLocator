@@ -8,3 +8,6 @@ Biblioteca geopy.
 Uso:
 Forneça um CEP na variável cep ou uma lista de ceps na variavél cep_list, como argumento para a função encontrar_lat_long_por_cep.
 A função retornará a latitude e longitude correspondentes ao CEP fornecido.
+
+
+Obs: Podem ocorrer erros de request, dependendo do numero de requisições e do período entre elas. Na maioria dos casos basta solicitar a execução do script novamente. 
